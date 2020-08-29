@@ -1,4 +1,4 @@
-package SWEA.searchAlgorithm;
+package SWEA.search;
 
 import java.io.BufferedReader;
 import java.io.IOException;
