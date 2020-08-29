@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 // 재귀로 순열을 구해봄
 // 이후 nextPermutation을 이용해서 순열을 구하니까 시간 확실히 줄음
 
-public class N1247_최적경로 {
+public class N1247 {
 	static int ans;
 	static int N;
 	static Pair[] Pos;

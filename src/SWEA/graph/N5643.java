@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 // 진입차수의 수 : 자신보다 작은 학생수
 // 진출차수의 수 : 자신보다 큰 학생수
 
-public class N5643_키순서 {
+public class N5643 {
 	static ArrayList<Integer>[] map;
 	static boolean [][]visit;
 	static int n, m;
