@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 
 // 시작 노드에서 다른 노드까지 가는데 최저 가중치 구하는 문제
 
-public class N1753_최단경로 {
+public class N1753 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
