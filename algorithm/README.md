@@ -1,4 +1,4 @@
-# Algorithms
+# How to solve algorithms
 ## 문제 해결 과정
 
 1. 문제를 읽고 이해한다.
@@ -38,6 +38,7 @@
 
 **O(n!) > O(2^n) > O(n^2) > O(n * log n) > O(n) > O(log n) > O(n)**
 
+# Let's study about algorithms
 ## [Combinational](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/combinational.md)
 ## [Data Structure](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/data_structure.md)
 ## [Search Algorithms](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/search_algorithms.md)
