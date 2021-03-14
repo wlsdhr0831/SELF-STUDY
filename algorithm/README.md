@@ -40,4 +40,6 @@
 
 ## [Combinational](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/combinational.md)
 ## [Data Structure](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/data_structure.md)
-## [BFS/DFS](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/BFS_DFS.md)
+## [Search Algorithms](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/search_algorithms.md)
+## [Graph Algorithms](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/graph_algorithms.md)
+## [Divide And Conquer](https://github.com/wlsdhr0831/SELF-STUDY/tree/master/algorithm/_log/divide_and_conquer.md)
