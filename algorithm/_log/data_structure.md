@@ -91,12 +91,12 @@ ex) 괄호 검사, 함수 호출, 중위 표기법을 후위 표기법으로 변
 - **선입선출** (**FIFO**, First-In-First-Out)
 
 ```java
-front ****: 머리
-rear ****: 꼬리
+front : 머리
+rear : 꼬리
 enqueue: rear으로 값 삽입
-dequeue ****: front 값 꺼내기
+dequeue : front 값 꺼내기
 isEmpty : 공백 여부 ( O : true, X : false )
-isFull ****: 포화 여부 ( O : true, X : false )
+isFull : 포화 여부 ( O : true, X : false )
 peek : front 값 반환
 ```
 
@@ -307,7 +307,7 @@ int find(int a){
     ⇒ 중위 순위하면 정렬된 값 나옴
 
 ```java
-순위 **(Traversal)**
+순위 (Traversal)
 - 트리의 노드들을 체계적으로 방문 하는 것
 
 1. 전위 순위 (Preorder Traversal)
@@ -327,7 +327,7 @@ int find(int a){
 배열을 이용한 이진트리 표현
 - 루트 번호 : 1
 - 레벨 n에 있는 노드들 : 2^n ~ 2^(n+1)-1
-****- 왼쪽 자식 번호 = 부모 번호 * 2
+- 왼쪽 자식 번호 = 부모 번호 * 2
 - 오른쪽 자식 번호 = 부모 번호 * 2 + 1
 - 단점
 	: 편향 이진트리의 경우 메모리 공간 낭비
