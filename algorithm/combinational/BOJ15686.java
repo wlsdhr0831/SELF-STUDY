@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class N15686 {
+public class BOJ15686 {
 	static int min = Integer.MAX_VALUE, N, M;
 	static boolean visit[];
 	static List<Pair> chkSto = new ArrayList<>(), house = new ArrayList<>();
